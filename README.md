@@ -1,1 +1,4 @@
 # PMOAgent
+The PMO Agent is an autonomous, agentic AI solution built on the BEAK AI Agent Platform that operates directly within the Microsoft 365 ecosystem to manage project environments end-to-end with minimal manual intervention. It functions as an intelligent orchestration layer that automates project lifecycle activities, enforces governance controls, and delivers real-time operational insights for PMO stakeholders.
+The agent integrates natively with core Microsoft services including Microsoft SharePoint Online, Microsoft Power BI, Microsoft Graph, and Microsoft OneDrive, enabling it to operate directly within the organization’s existing collaboration and data environment.
+<img width="468" height="163" alt="image" src="https://github.com/user-attachments/assets/706dc054-4293-4e49-b355-cfffc60f1a40" />
